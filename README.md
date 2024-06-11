@@ -1,4 +1,4 @@
-# strava-heatmap-proxy
+# strava-heatmap-proxy 
 
 This is a simple [Cloudflare Worker](https://workers.dev) allowing
 unauthenticated access to personal and global Strava heatmaps. If you want to
